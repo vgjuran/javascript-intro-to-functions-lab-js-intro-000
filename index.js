@@ -7,5 +7,5 @@ function whisper(string){
 }
 
 function logShout(string){
-  consle.log('HELLO');
+  consle.log(shout(string));
 }
