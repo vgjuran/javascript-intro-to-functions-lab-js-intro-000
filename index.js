@@ -7,5 +7,5 @@ function whisper(string){
 }
 
 function logShout(string){
-  consle.log(shout());
+  console.log(shout());
 }
